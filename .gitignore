@@ -1,5 +1,7 @@
-passwords.py
+config.py
 .ipynb_checkpoints
 .idea
 useless
 temp_files/*
+__pycache__
+.gitignore
